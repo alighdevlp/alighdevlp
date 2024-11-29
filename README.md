@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on [Fkg](https://fkgco.com/)
 
-- 👯 I’m looking to collaborate on [themaak](https://themaak.net)
-
 - 📫 How to reach me **alighdev.ir**
 
 - 📄 Know about my experiences [alighdev.ir](alighdev.ir)
