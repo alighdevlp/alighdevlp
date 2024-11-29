@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alighdev</h1>
 <h3 align="center">Web Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alighdevlp&label=Profile%20views&color=0e75b6&style=flat" alt="alighdevlp" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alighdevlp" alt="alighdevlp" /></a> </p>
-
 - 🔭 I’m currently working on [Fkg](https://fkgco.com/)
 
 - 👯 I’m looking to collaborate on [themaak](https://themaak.net)
